@@ -1,18 +1,24 @@
 # estudiar 
+
 todo mubiennn
+para el
 
 ## examen
 
 Se da el codigo de las FUNCIONES: ------------------------ 
+
+```python:
 # def echo(algo):
 # def siguienteDe(numero):
 # def sumaDosCosas(a, b):
 # def dobleDe(numero):
 # def dobleDeCadaElemento(lista):
+```
 
 Completa el codigo para las siguientes FUNCIONES 
 en las que se han ocultado algunos caractere con un punto.
 
+```python:
 """
 def anteriorDe(numero):
     ...... numero . .
@@ -35,3 +41,4 @@ print (f"suma de valores doblados" +
 
 def sumaTresCosas(a, b, c):
     return . . . . .
+```
