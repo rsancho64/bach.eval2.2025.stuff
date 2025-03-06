@@ -24,11 +24,11 @@ def dobleDe(numero):
 def dobleDeCadaElemento(lista):
     """funcion que recibe una lista 
     y devuelve otra igual de larga con 
-    los elementos doblados """ 
+    los items doblados """ 
 
     nuevaLista = []
-    for elemento in lista:
-        nuevoElemento = dobleDe(elemento)
+    for item in lista:
+        nuevoElemento = dobleDe(item)
         nuevaLista.append(nuevoElemento)
     return nuevaLista
 
@@ -84,8 +84,8 @@ def anteriorDe(numero):
 
 def sumaLosDoblesDeLosElementosEn(lista):
     total = 0
-    for elemento in lista:
-        total += dobleDe(elemento) 
+    for item in lista:
+        total += dobleDe(item) 
     return total   
 
 print (f"suma de valores doblados" +

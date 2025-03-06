@@ -16,7 +16,7 @@ Se da el codigo de las FUNCIONES: ------------------------
 ```
 
 Completa el codigo para las siguientes FUNCIONES 
-en las que se han ocultado algunos caractere con un punto.
+en las que se han ocultado algunos caractereS con un punto.
 
 ```python:
 """
